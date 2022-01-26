@@ -1,3 +1,4 @@
 # KOKOA clone 2022
 
-HTML is very fun!
+HTML & CSS is very fun!
+but.... very hard ㅠㅠ
